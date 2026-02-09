@@ -13,22 +13,23 @@
 ---
 
 ## 🚀 About Me  
-I’m a data analyst with a background in **workflow automation, dashboard design, and operational analytics**. My focus is on building **sustainable, officer‑friendly systems** that empower non‑technical users to make data‑driven decisions.  
+I’m a data analyst focused on **aerospace, reliability, and operational analytics**. My goal is to help organizations understand how maintenance, operations, and system design impact performance and safety.  
 
 I specialize in:
-- Designing **modular dashboards** with flexible filters and clear KPIs.  
-- Automating repetitive processes with **Google Apps Script, SQL, and Python**.  
-- Translating complex requirements into **maintainable, recruiter‑friendly solutions**.  
-- Applying analytics to **aerospace, reliability, and operational domains**.  
+- Analyzing **complex technical datasets** (astronomy, aerospace, operations) with Python and SQL.  
+- Designing **modular dashboards** that make KPIs and engagement metrics accessible to non‑technical users.  
+- Automating workflows with **Google Apps Script and Python** to ensure sustainable, reproducible analytics.  
+- Translating messy, real‑world data into **clear insights for decision‑makers**.  
 
-I thrive on the “aha!” moment when messy data becomes a clear story that drives smarter action.
+I thrive on the “aha!” moment when data reveals patterns that drive smarter operations and reliability.
 
 ---
 
 ## 🔭 Current Projects  
-- **Council Engagement Dashboard** → Officer‑friendly analytics system for volunteer retention and fundraising impact.  
-- **Astronomy & Exoplanet Analysis** → Data cleaning, visualization, and exploratory insights into astrophysical datasets.  
-- **Networking Playbook** → Service‑oriented framework for building authentic professional relationships.  
+- **Aircraft Maintenance & Flight Reliability** → Exploring how maintenance schedules and repair events impact flight delays, cancellations, and operational performance.  
+- **Star Classification & Exoplanet Analysis** → Python‑based data cleaning, feature engineering, and statistical modeling to classify stars and analyze exoplanet datasets.  
+- **Council Engagement Dashboard (Knights of Columbus)** → Officer‑friendly analytics system for volunteer retention and fundraising impact, showcasing KPI design and workflow automation.  
+
 
 ---
 
