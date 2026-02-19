@@ -5,7 +5,7 @@
 </div>
 
 ## Portfolio Links
-### 1.) [Volunteer Impact and Performance Analysis for Local Council](https://github.com/NorthrupRobert/kofc-impact-tracker-16207)
+### 1.) [Volunteer Impact and Performance Analysis (Local Nonprofit)](https://github.com/NorthrupRobert/kofc-impact-tracker-16207)
 ### 2.) [737-800 SDR Reliability Analysis](https://github.com/NorthrupRobert/737-800_SDR_Reliability_Analysis)
 
 <p align="center">
