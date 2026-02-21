@@ -5,8 +5,8 @@
 </div>
 
 ## Portfolio Links
-### 1.) [Volunteer Impact and Performance Analysis (Local Nonprofit)](https://github.com/NorthrupRobert/kofc-impact-tracker-16207)
-### 2.) [737-800 SDR Reliability Analysis](https://github.com/NorthrupRobert/737-800_SDR_Reliability_Analysis)
+### 1.) [Local Nonprofit Volunteer Impact and Performance Analysis](https://github.com/NorthrupRobert/kofc-impact-tracker-16207)
+### 2.) [737-800 SDR Reliability Analysis (IN PROGRESS)](https://github.com/NorthrupRobert/737-800_SDR_Reliability_Analysis)
 
 <p align="center">
   <a href="https://linkedin.com/in/robb-northrup-463867382"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
