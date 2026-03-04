@@ -16,8 +16,8 @@
 ---
 
 ## 🔭 Current Projects  
-- **Aircraft Maintenance & Flight Reliability** → Exploring how maintenance events and repairs impact 737-800 commercial fleets, through a custom Python-SQL ETL pipeline, PostgreSQL database design, Pandas exploration, and executive dashboards.
-- **Volunteer Impact and Performance Analysis for Local Council (Knights of Columbus)** → Officer‑friendly analytics system for volunteer retention and community impact, showcasing KPI design and workflow automation.  
+- **American Airlines 737-800 Maintenance & Reliability Analysis** → Analyzed how maintenance events, system failures, and operational disruptions affect 737‑800 fleet performance using a fully normalized PostgreSQL database, a custom Python‑SQL ETL pipeline, Pandas‑based exploration, and executive‑ready dashboards.
+- **Volunteer Impact and Performance Analysis for Local Council (Knights of Columbus)** → Leadership‑friendly analytics system for volunteer retention and community impact, showcasing KPI design and workflow automation.  
 - **Star Classification & Exoplanet Analysis** → Python‑based data cleaning, feature engineering, and statistical modeling to classify stars and analyze exoplanet datasets.
 
 ---
