@@ -36,9 +36,9 @@ I thrive on the “aha!” moment when data reveals patterns that drive smarter 
 ---
 
 ## 🌱 Currently Learning  
-- Advanced **SQL optimization** for large datasets.  
-- **Python for ETL pipelines** and reproducible analytics workflows.  
-- **Tableau and Excel storytelling** for executive‑friendly dashboards.  
+- Advanced **SQL optimization** and window‑function patterns for operational analytics.
+- **Python‑based ETL pipelines** for FAA‑scale datasets and reproducible workflows.
+- **Tableau and Excel** storytelling for executive‑ready dashboards and insights.
 
 ---
 
@@ -46,21 +46,22 @@ I thrive on the “aha!” moment when data reveals patterns that drive smarter 
 
 #### Data Analysis & Visualization  
 <p>
-  <img src="https://img.shields.io/badge/SQL-Advanced-4479A1?style=flat&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/Excel-Expert-217346?style=flat&logo=microsoft-excel&logoColor=white">
-  <img src="https://img.shields.io/badge/Tableau-Intermediate-E97627?style=flat&logo=tableau&logoColor=white">
+<img src="https://img.shields.io/badge/SQL-Advanced-4479A1?style=flat&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/Excel-Advanced-217346?style=flat&logo=microsoft-excel&logoColor=white">
+<img src="https://img.shields.io/badge/Tableau-Intermediate-E97627?style=flat&logo=tableau&logoColor=white">
 </p>
 
 #### Programming & Automation  
 <p>
-  <img src="https://img.shields.io/badge/Google%20Apps%20Script-Advanced-4285F4?style=flat&logo=google&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Google%20Apps%20Script-Advanced-4285F4?style=flat&logo=google&logoColor=white">
+<img src="https://img.shields.io/badge/ETL%20Pipelines-Intermediate-2E9EF7?style=flat">
 </p>
 
 #### Business Intelligence & Analytics  
 <p>
-  <img src="https://img.shields.io/badge/KPI%20Development-Intermediate-96CEB4?style=flat">
-  <img src="https://img.shields.io/badge/Statistical%20Analysis-Intermediate-4ECDC4?style=flat">
-  <img src="https://img.shields.io/badge/Predictive%20Modeling-Intermediate-45B7D1?style=flat">
-  <img src="https://img.shields.io/badge/Workflow%20Automation-Intermediate-2E9EF7?style=flat">
+<img src="https://img.shields.io/badge/KPI%20Design-Advanced-96CEB4?style=flat">
+<img src="https://img.shields.io/badge/Statistical%20Analysis-Intermediate-4ECDC4?style=flat">
+<img src="https://img.shields.io/badge/Operational%20Analytics-Intermediate-45B7D1?style=flat">
+<img src="https://img.shields.io/badge/Workflow%20Automation-Advanced-2E9EF7?style=flat">
 </p>
