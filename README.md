@@ -15,7 +15,7 @@
 
 ---
 
-## 🔭 Current Projects  
+## 🔭 Projects  
 - **American Airlines 737-800 Maintenance & Reliability Analysis** → Analyzed how maintenance events, system failures, and operational disruptions affect 737‑800 fleet performance using a fully normalized PostgreSQL database, a custom Python‑SQL ETL pipeline, Pandas‑based exploration, and executive‑ready dashboards.
 - **Volunteer Impact and Performance Analysis for Local Council (Knights of Columbus)** → Leadership‑friendly analytics system for volunteer retention and community impact, showcasing KPI design and workflow automation.  
 - **Star Classification & Exoplanet Analysis** → Python‑based data cleaning, feature engineering, and statistical modeling to classify stars and analyze exoplanet datasets.
@@ -32,6 +32,15 @@ I specialize in:
 - Translating messy, real‑world data into **clear insights for decision‑makers**.  
 
 I thrive on the “aha!” moment when data reveals patterns that drive smarter operations and reliability.
+
+---
+## Education / Qualifications
+-  **University of Nevada, Reno** (Aug 2021 - Aug 2025)
+  B.S. Computer Science and Engineering (3.5 GPA), Mathematics Minor, Aerospace Club, STEM, Algebra
+- **Google Data Analytics Professional Certificate** (Dec 2025)
+- **Community College of the Air Force**
+  AAS, Aircraft Maintenance Technology (Fall 2026)
+- Active Secret Security Clearance
 
 ---
 
