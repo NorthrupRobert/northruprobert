@@ -24,7 +24,7 @@ I offer simple, flat‑rate analytics services designed for small organizations 
 
 My work is fully asynchronous — no meetings required. You send the file (or a sample with sensitive data removed), I clean it up, build the dashboard, and deliver a short video walkthrough explaining how everything works. I’ve supported small nonprofits (including my local Knights of Columbus council) and other community organizations by helping them track impact, simplify reporting, and make better decisions with the data they already have.
 
-If you’d like help with a spreadsheet or want to see what’s possible, feel free to reach out: RobbNorthrup@Outlook.com]
+If you’d like help with a spreadsheet or want to see what’s possible, feel free to reach out: RobbNorthrup@Outlook.com
 
 ---
 
